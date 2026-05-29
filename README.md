@@ -3,6 +3,10 @@
 Machine learning-powered lineup intelligence and playoff analytics for the New York Knicks using NBA lineup data, feature engineering, clustering, dimensionality reduction, SQL analytics, and interactive dashboarding.
 
 ---
+## Dashboard Preview
+
+![Knicks Dashboard](assets/dashboard.png)
+---
 
 ## Project Overview
 
@@ -169,10 +173,6 @@ An interactive Streamlit dashboard was developed featuring:
 - playoff comparison insights
 - interactive data explorer
 - downloadable filtered datasets
-
-The dashboard includes custom Knicks-themed dark mode styling using:
-- Knicks blue
-- Knicks orange
 - interactive Plotly visualizations
 
 ---
