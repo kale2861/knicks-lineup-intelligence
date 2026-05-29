@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.env/
+
+# Streamlit
+.streamlit/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# Data
+data/raw/
+
+# Models
+models/*.pkl
+
+# DuckDB
+*.duckdb
+
+# VS Code
+.vscode/
+
+# Plotly
+*.html

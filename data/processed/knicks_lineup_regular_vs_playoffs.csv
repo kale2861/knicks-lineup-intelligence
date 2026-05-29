@@ -1,0 +1,41 @@
+group_name,season_type,min,off_rating,def_rating,net_rating,pace,ast_pct,reb_pct,ts_pct,lineup_quality,offense_tier,defense_tier,lineup_stability_score,two_way_score
+K. Towns - O. Anunoby - J. Hart - M. Bridges - J. Brunson,Regular Season,541.0,115.0,112.8,2.3,100.65,0.704,0.512,0.612,Positive,Average,Average,0.3069,2.2
+K. Towns - J. Hart - M. Bridges - J. Brunson - M. McBride,Regular Season,123.0,132.9,116.6,16.3,95.32,0.585,0.504,0.661,Elite,Elite,Average,0.0698,16.3
+K. Towns - O. Anunoby - M. Bridges - J. Brunson - L. Shamet,Regular Season,119.0,108.4,109.0,-0.6,104.14,0.687,0.506,0.543,Neutral,Average,Strong,0.0675,-0.6
+K. Towns - O. Anunoby - M. Bridges - J. Brunson - M. McBride,Regular Season,91.0,126.9,128.3,-1.4,100.83,0.702,0.488,0.666,Neutral,Elite,Poor,0.0516,-1.4
+K. Towns - J. Hart - M. Bridges - J. Brunson - L. Shamet,Regular Season,84.0,111.0,111.0,0.0,101.17,0.628,0.488,0.581,Neutral,Average,Strong,0.0476,0.0
+O. Anunoby - J. Hart - M. Bridges - J. Brunson - M. Robinson,Regular Season,70.0,133.8,109.8,24.0,96.21,0.653,0.521,0.696,Elite,Elite,Strong,0.0397,24.0
+J. Clarkson - K. Towns - O. Anunoby - M. Bridges - T. Kolek,Regular Season,63.0,110.9,108.1,2.7,100.6,0.688,0.491,0.635,Positive,Average,Strong,0.0357,2.8
+K. Towns - O. Anunoby - M. Bridges - J. Brunson - M. Robinson,Regular Season,52.0,118.1,109.2,8.9,97.95,0.625,0.527,0.532,Elite,Strong,Strong,0.0295,8.9
+O. Anunoby - M. Bridges - J. Brunson - M. Robinson - L. Shamet,Regular Season,48.0,111.9,94.1,17.8,102.55,0.486,0.518,0.552,Elite,Average,Elite,0.0272,17.8
+K. Towns - O. Anunoby - J. Hart - J. Brunson - L. Shamet,Regular Season,45.0,113.6,128.0,-14.4,107.44,0.69,0.506,0.589,Negative,Average,Poor,0.0255,-14.4
+J. Hart - M. Bridges - J. Brunson - M. Robinson - M. McBride,Regular Season,41.0,122.2,94.6,27.7,105.44,0.553,0.589,0.58,Elite,Strong,Elite,0.0233,27.6
+J. Clarkson - K. Towns - J. Hart - M. Bridges - J. Brunson,Regular Season,38.0,118.9,127.2,-8.2,98.3,0.517,0.475,0.633,Negative,Strong,Poor,0.0216,-8.3
+J. Clarkson - K. Towns - O. Anunoby - M. Bridges - M. McBride,Regular Season,38.0,116.5,116.5,0.0,99.39,0.688,0.457,0.565,Neutral,Strong,Average,0.0216,0.0
+J. Clarkson - K. Towns - O. Anunoby - M. Bridges - J. Brunson,Regular Season,37.0,124.7,112.3,12.3,94.16,0.559,0.571,0.615,Elite,Strong,Average,0.021,12.4
+J. Clarkson - J. Hart - M. Bridges - J. Brunson - M. Robinson,Regular Season,36.0,138.2,113.0,25.2,100.82,0.575,0.54,0.613,Elite,Elite,Average,0.0204,25.2
+J. Clarkson - K. Towns - J. Hart - M. Bridges - M. McBride,Regular Season,36.0,107.6,122.9,-15.3,108.38,0.636,0.529,0.565,Negative,Average,Poor,0.0204,-15.3
+K. Towns - O. Anunoby - J. Hart - M. Bridges - J. Alvarado,Regular Season,35.0,150.0,117.8,32.2,98.7,0.75,0.561,0.706,Elite,Elite,Average,0.0199,32.2
+O. Anunoby - M. Bridges - J. Brunson - M. Robinson - M. McBride,Regular Season,34.0,136.9,95.8,41.1,96.6,0.552,0.591,0.7,Elite,Elite,Elite,0.0193,41.1
+J. Hart - J. Brunson - M. Robinson - L. Shamet - M. Diawara,Regular Season,33.0,116.7,104.2,12.4,103.47,0.677,0.508,0.574,Elite,Strong,Elite,0.0187,12.5
+K. Towns - O. Anunoby - M. Bridges - J. Brunson - M. Diawara,Regular Season,33.0,117.3,109.5,7.9,107.02,0.71,0.522,0.612,Elite,Strong,Strong,0.0187,7.8
+K. Towns - O. Anunoby - M. Bridges - J. Alvarado - M. Diawara,Regular Season,32.0,122.4,100.0,22.4,99.79,0.71,0.471,0.604,Elite,Strong,Elite,0.0182,22.4
+J. Clarkson - K. Towns - J. Hart - M. McBride - T. Kolek,Regular Season,30.0,112.9,101.7,11.2,97.28,0.769,0.5,0.532,Elite,Average,Elite,0.017,11.2
+O. Anunoby - J. Hart - J. Brunson - M. Robinson - L. Shamet,Regular Season,28.0,115.6,96.8,18.9,107.77,0.621,0.588,0.661,Elite,Strong,Elite,0.0159,18.8
+J. Hart - M. Bridges - J. Brunson - M. Robinson - L. Shamet,Regular Season,26.0,96.2,134.7,-38.5,94.51,0.526,0.471,0.52,Negative,Poor,Poor,0.0147,-38.5
+K. Towns - O. Anunoby - J. Hart - M. Bridges - T. Kolek,Regular Season,25.0,121.8,100.0,21.8,102.65,0.808,0.488,0.698,Elite,Strong,Elite,0.0142,21.8
+K. Towns - O. Anunoby - M. Bridges - L. Shamet - J. Alvarado,Regular Season,25.0,132.7,87.8,44.9,94.24,0.76,0.574,0.627,Elite,Elite,Elite,0.0142,44.9
+K. Towns - O. Anunoby - J. Hart - M. Bridges - J. Brunson,Playoffs,205.0,118.8,108.9,9.9,97.34,0.663,0.5,0.626,Elite,Strong,Strong,0.4916,9.9
+K. Towns - J. Hart - M. Bridges - J. Brunson - M. McBride,Playoffs,32.0,120.6,111.3,9.3,94.89,0.704,0.5,0.606,Elite,Strong,Strong,0.0767,9.3
+K. Towns - O. Anunoby - J. Hart - J. Brunson - M. McBride,Playoffs,30.0,136.9,77.4,59.5,100.9,0.548,0.559,0.685,Elite,Elite,Elite,0.0719,59.5
+J. Hart - M. Bridges - J. Brunson - M. Robinson - M. McBride,Playoffs,22.0,130.2,116.3,14.0,94.17,0.524,0.55,0.637,Elite,Elite,Average,0.0528,13.9
+K. Towns - O. Anunoby - M. Bridges - J. Brunson - L. Shamet,Playoffs,21.0,162.8,61.5,101.3,95.55,0.44,0.694,0.803,Elite,Elite,Elite,0.0504,101.3
+J. Clarkson - O. Anunoby - J. Brunson - M. Robinson - M. McBride,Playoffs,17.0,130.3,72.2,58.1,96.05,0.333,0.59,0.567,Elite,Elite,Elite,0.0408,58.1
+L. Shamet - A. Hukporti - T. Kolek - P. Dadiet - M. Diawara,Playoffs,13.0,107.4,84.6,22.8,98.22,0.727,0.56,0.575,Elite,Average,Elite,0.0312,22.8
+O. Anunoby - J. Hart - M. Bridges - J. Brunson - M. Robinson,Playoffs,13.0,97.0,109.4,-12.4,120.46,0.667,0.462,0.668,Negative,Poor,Strong,0.0312,-12.4
+O. Anunoby - J. Hart - M. Bridges - J. Brunson - L. Shamet,Playoffs,12.0,93.1,89.7,3.4,114.33,0.571,0.5,0.642,Positive,Poor,Elite,0.0288,3.4
+A. Hukporti - J. Sochan - T. Kolek - P. Dadiet - M. Diawara,Playoffs,11.0,65.4,133.3,-67.9,105.73,0.667,0.571,0.435,Negative,Poor,Poor,0.0264,-67.9
+J. Clarkson - O. Anunoby - M. Robinson - L. Shamet - M. McBride,Playoffs,11.0,115.0,145.0,-30.0,90.14,0.375,0.5,0.613,Negative,Average,Poor,0.0264,-30.0
+J. Clarkson - K. Towns - J. Hart - L. Shamet - J. Alvarado,Playoffs,10.0,114.3,105.3,9.0,96.81,0.8,0.722,0.566,Elite,Average,Strong,0.024,9.0
+K. Towns - J. Hart - L. Shamet - M. McBride - J. Alvarado,Playoffs,10.0,121.1,94.7,26.3,91.81,0.6,0.478,0.5,Elite,Strong,Elite,0.024,26.4
+K. Towns - J. Hart - M. Bridges - J. Brunson - L. Shamet,Playoffs,10.0,128.6,63.2,65.4,92.16,1.0,0.571,0.687,Elite,Elite,Elite,0.024,65.4
