@@ -5,7 +5,7 @@ Machine learning-powered lineup intelligence and playoff analytics for the New Y
 ---
 ## Dashboard Preview
 
-![Knicks Dashboard](assets/dashboard.png)
+![Knicks Dashboard](assets/Dashboard.png)
 ---
 
 ## Project Overview
